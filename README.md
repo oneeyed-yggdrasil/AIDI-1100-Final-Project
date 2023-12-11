@@ -2,9 +2,7 @@
 
 This is the Final Project for the Group 3 of  AIDI 1100 - 01  Intro to AI Development Class. 
 
-###Team Members:
-
-
+# Team Members:
 Oguntolu, Felicity
 
 Ganesan, Gayathri
